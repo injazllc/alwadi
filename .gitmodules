@@ -2,3 +2,8 @@
 	path = OCA/social
 	url = git@github.com:OCA/social.git
 	branch = 11.0
+
+[submodule "injazllc/right-to-left"]
+	path = injazllc/right-to-left
+	url = git@github.com:injazllc/right-to-left.git
+	branch = master
